@@ -1,0 +1,6 @@
+#virtual env
+env/
+__pycache__/
+#contains passwords
+config/bnn_config.ini
+bnn_config.ini
